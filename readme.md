@@ -11,7 +11,7 @@ To ensure clarity and readability, the following emojis will be used:
 | **Skill Area**               | **Junior** | **Middle** | **Senior** | **Lead**  |
 |------------------------------|------------|------------|------------|-----------|
 | **Node.js Core**             |            |            |            |           |
-| [API](./core/api.md)                          | 🌱         | 🌿         | 🌳         | 🚀        |
+| [API](./core/api.md)         | [🌱](./core/api.md#-novice)         | [🌿](./core/api.md#-intermediate)         | [🌳](./core/api.md#-advanced)         | [🚀](./core/api.md#-expert)        |
 | Async programming            | 🌿         | 🌳         | 🌳         | 🚀        |
 | Events                       | 🌱         | 🌿         | 🌳         | 🌳        |
 | Streams                      |            | 🌱         | 🌿         | 🌳        |
