@@ -17,9 +17,9 @@ To ensure clarity and readability, the following emojis will be used:
 | [Streams](./core/streams.md)                      |            | 🌱          | 🌿         | 🌳        |
 | [Buffers](./core/buffers.md)                      |            | 🌱          | 🌿         | 🌳        |
 | [Filesystem API](./core/file-system.md)               | 🌿         | 🌳          | 🌳         | 🚀        |
-| Clusterization               |            | 🌱          | 🌿         | 🌳        |
-| Multithreading               |            | 🌱          | 🌿         | 🌳        |
-| Network                      |            | 🌿          | 🌳         | 🚀        |
+| [Clusterization](./core/clusterization.md)               |            | 🌱          | 🌿         | 🌳        |
+| [Multithreading](./core/multithreading.md)               |            | 🌱          | 🌿         | 🌳        |
+| [Network](./core/network.md)                      |            | 🌿          | 🌳         | 🚀        |
 | Error handling               | 🌿         | 🌳          | 🌳         | 🚀        |
 | Debugging                    | 🌱         | 🌿          | 🌳         | 🌳        |
 | CLI                          | 🌱         | 🌿          | 🌿         | 🌿        |
