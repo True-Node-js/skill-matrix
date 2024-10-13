@@ -11,28 +11,28 @@ To ensure clarity and readability, the following emojis will be used:
 | **Skill Area**               | **Junior** | **Middle** | **Senior** | **Lead**  |
 |------------------------------|------------|------------|------------|-----------|
 | **Node.js Core**             |            |            |            |           |
-| [API](./core/api.md)         | [🌱](./core/api.md#-novice)         | [🌿](./core/api.md#-intermediate)         | [🌳](./core/api.md#-advanced)         | [🚀](./core/api.md#-expert)        |
-| Async programming            | 🌿         | 🌳         | 🌳         | 🚀        |
-| Events                       | 🌱         | 🌿         | 🌳         | 🌳        |
-| Streams                      |            | 🌱         | 🌿         | 🌳        |
-| Buffers                      |            | 🌱         | 🌿         | 🌳        |
-| Filesystem API               | 🌿         | 🌳         | 🌳         | 🚀        |
-| Clusterization               |            | 🌱         | 🌿         | 🌳        |
-| Multithreading               |            | 🌱         | 🌿         | 🌳        |
-| Network                      |            | 🌿         | 🌳         | 🚀        |
-| Error handling               | 🌿         | 🌳         | 🌳         | 🚀        |
-| Debugging                    | 🌱         | 🌿         | 🌳         | 🌳        |
-| CLI                          | 🌱         | 🌿         | 🌿         | 🌿        |
+| [API](./core/api.md)         | 🌱         | 🌿          | 🌳         | 🚀        |
+| Async programming            | 🌿         | 🌳          | 🌳         | 🚀        |
+| Events                       | 🌱         | 🌿          | 🌳         | 🌳        |
+| Streams                      |            | 🌱          | 🌿         | 🌳        |
+| Buffers                      |            | 🌱          | 🌿         | 🌳        |
+| Filesystem API               | 🌿         | 🌳          | 🌳         | 🚀        |
+| Clusterization               |            | 🌱          | 🌿         | 🌳        |
+| Multithreading               |            | 🌱          | 🌿         | 🌳        |
+| Network                      |            | 🌿          | 🌳         | 🚀        |
+| Error handling               | 🌿         | 🌳          | 🌳         | 🚀        |
+| Debugging                    | 🌱         | 🌿          | 🌳         | 🌳        |
+| CLI                          | 🌱         | 🌿          | 🌿         | 🌿        |
 | **Node.js Development tools**|            |            |            |           |
-| NPM                          | 🌱         | 🌿         | 🌳         | 🌳        |
-| NVM                          | 🌿         | 🌿         | 🌿         | 🌳        |
+| NPM                          | 🌱         | 🌿          | 🌳         | 🌳        |
+| NVM                          | 🌿         | 🌿          | 🌿         | 🌳        |
 | Profiling & Debugging        |            |            | 🌳         | 🚀        |
 | **Frameworks**               |            |            |            |           |
-| Express                      | 🌱         | 🌿         | 🌳         | 🚀        |
-| 🎈 NestJS                    |            | 🌿         | 🌳         | 🚀        |
-| 🎈 Koa                       |            |            | 🌳         |           |
-| 🎈 Hapi                      |            |            | 🌳         |           |
-| 🎈 Loopback                  |            |            | 🌳         |           |
+| Express                      | 🌱         | 🌿          | 🌳         | 🚀        |
+| 🎈 NestJS                    |            | 🌿          | 🌳         | 🚀        |
+| 🎈 Koa                       |            |             | 🌳         |           |
+| 🎈 Hapi                      |            |             | 🌳         |           |
+| 🎈 Loopback                  |            |             | 🌳         |           |
 | **Client-Server communication**|          |            |            |           |
 | REST                        | 🌿         | 🌳         | 🌳         | 🚀        |
 | GraphQL                     |            | 🌿         | 🌳         | 🚀        |
