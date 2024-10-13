@@ -12,11 +12,11 @@ To ensure clarity and readability, the following emojis will be used:
 |------------------------------|------------|------------|------------|-----------|
 | **Node.js Core**             |            |            |            |           |
 | [API](./core/api.md)         | 🌱         | 🌿          | 🌳         | 🚀        |
-| Async programming            | 🌿         | 🌳          | 🌳         | 🚀        |
-| Events                       | 🌱         | 🌿          | 🌳         | 🌳        |
-| Streams                      |            | 🌱          | 🌿         | 🌳        |
-| Buffers                      |            | 🌱          | 🌿         | 🌳        |
-| Filesystem API               | 🌿         | 🌳          | 🌳         | 🚀        |
+| [Async programming](./core/async-programming.md)            | 🌿         | 🌳          | 🌳         | 🚀        |
+| [Events](./core/events.md)                       | 🌱         | 🌿          | 🌳         | 🌳        |
+| [Streams](./core/streams.md)                      |            | 🌱          | 🌿         | 🌳        |
+| [Buffers](./core/buffers.md)                      |            | 🌱          | 🌿         | 🌳        |
+| [Filesystem API](./core/file-system.md)               | 🌿         | 🌳          | 🌳         | 🚀        |
 | Clusterization               |            | 🌱          | 🌿         | 🌳        |
 | Multithreading               |            | 🌱          | 🌿         | 🌳        |
 | Network                      |            | 🌿          | 🌳         | 🚀        |
