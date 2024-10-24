@@ -20,9 +20,9 @@ To ensure clarity and readability, the following emojis will be used:
 | [Clusterization](./core/clusterization.md)               |            | 🌱          | 🌿         | 🌳        |
 | [Multithreading](./core/multithreading.md)               |            | 🌱          | 🌿         | 🌳        |
 | [Network](./core/network.md)                      |            | 🌿          | 🌳         | 🚀        |
-| Error handling               | 🌿         | 🌳          | 🌳         | 🚀        |
-| Debugging                    | 🌱         | 🌿          | 🌳         | 🌳        |
-| CLI                          | 🌱         | 🌿          | 🌿         | 🌿        |
+| [Error handling](./core/error-handling.md)               | 🌿         | 🌳          | 🌳         | 🚀        |
+| [Debugging](./core/debugging.md)                    | 🌱         | 🌿          | 🌳         | 🌳        |
+| [CLI](./core/cli.md)                          | 🌱         | 🌿          | 🌿         | 🌿        |
 | **Node.js Development tools**|            |            |            |           |
 | NPM                          | 🌱         | 🌿          | 🌳         | 🌳        |
 | NVM                          | 🌿         | 🌿          | 🌿         | 🌳        |
