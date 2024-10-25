@@ -24,9 +24,9 @@ To ensure clarity and readability, the following emojis will be used:
 | [Debugging](./core/debugging.md)                    | 🌱         | 🌿          | 🌳         | 🌳        |
 | [CLI](./core/cli.md)                          | 🌱         | 🌿          | 🌿         | 🌿        |
 | **Node.js Development tools**|            |            |            |           |
-| NPM                          | 🌱         | 🌿          | 🌳         | 🌳        |
-| NVM                          | 🌿         | 🌿          | 🌿         | 🌳        |
-| Profiling & Debugging        |            |            | 🌳         | 🚀        |
+| [NPM](./development-tools/npm.md)                          | 🌱         | 🌿          | 🌳         | 🌳        |
+| [NVM](./development-tools/nvm.md)                          | 🌿         | 🌿          | 🌿         | 🌳        |
+| [Profiling & Debugging](./development-tools/profiling-and-debugging.md)        |            |            | 🌳         | 🚀        |
 | **Frameworks**               |            |            |            |           |
 | Express                      | 🌱         | 🌿          | 🌳         | 🚀        |
 | 🎈 NestJS                    |            | 🌿          | 🌳         | 🚀        |
