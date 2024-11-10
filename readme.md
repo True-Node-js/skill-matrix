@@ -9,6 +9,7 @@ To ensure clarity and readability, the following emojis will be used:
 🚀 **Expert**
 
 | **Skill Area**               | **Junior** | **Middle** | **Senior** | **Lead**  |
+|------------------------------|------------|------------|------------|-----------|
 | **Node.js Core**             |            |            |            |           |
 | [API](./core/api.md)         | 🌱         | 🌿          | 🌳         | 🚀        |
 | [Async programming](./core/async-programming.md) | 🌿         | 🌳          | 🌳         | 🚀        |
