@@ -43,10 +43,13 @@ To ensure clarity and readability, the following emojis will be used:
 | [TLS/SSL and HTTPS](./client-server-communication/tls-ssl-and-https.md) |            | 🌱         | 🌳         | 🌳        |
 | [API Gateways](./client-server-communication/api-gateways.md) |            | 🌱         | 🌳         | 🌳        |
 | **Clouds and Infrastructure**|            |            |            |           |
-| IaC                         |            | 🌱         | 🌳         | 🌳        |
-| Deployment                  |            | 🌿         | 🌳         | 🌳        |
-| Containerization            |            |            | 🌳         | 🚀        |
-| Monitoring                  |            | 🌿         | 🌳         | 🚀        |
+| [IaC](./clouds-and-infrastructure/iac.md)                         |            | 🌱         | 🌳         | 🌳        |
+| [Deployment](./clouds-and-infrastructure/deployment.md)                  |            | 🌿         | 🌳         | 🌳        |
+| [Containerization](./clouds-and-infrastructure/containerization.md)            |            |            | 🌳         | 🚀        |
+| [Monitoring](./clouds-and-infrastructure/monitoring.md)                  |            | 🌿         | 🌳         | 🚀        |
+| [CI/CD](./clouds-and-infrastructure/ci-cd.md)                  |            | 🌿         | 🌳         | 🚀        |
+| [Networking and Security](./clouds-and-infrastructure/networking-and-security.md)                  |            | 🌿         | 🌳         | 🚀        |
+| [Cost management](./clouds-and-infrastructure/cost-management.md)                  |            | 🌿         | 🌳         | 🚀        |
 | **Databases**               |            |            |            |           |
 | BASE                        | 🌱         | 🌿         | 🌳         | 🌳        |
 | ACID                        | 🌱         | 🌿         | 🌳         | 🌳        |
