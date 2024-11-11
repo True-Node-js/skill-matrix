@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **Skill Matrix for Node.js Engineers**! This matrix is designed to help Node.js developers evaluate their skills, identify growth areas, and gain clarity on the core competencies required for each level of expertise—from Junior to Lead. By assessing where you stand within each skill area, you can create a targeted learning and development plan that aligns with your career goals.
+Welcome to the **Skill Matrix for Node.js Engineers**! This [matrix](./matrix.md) is designed to help Node.js developers evaluate their skills, identify growth areas, and gain clarity on the core competencies required for each level of expertise—from Junior to Lead. By assessing where you stand within each skill area, you can create a targeted learning and development plan that aligns with your career goals.
 
 ## Who Is This Matrix For?
 
@@ -26,8 +26,8 @@ Whether you’re aiming to level up or preparing for an interview, this matrix p
 
 ## Start Your Skill Assessment Today!
 
-Use this matrix to assess your skills, set development goals, and gain insight into areas that require further growth. If you’re preparing for an interview or looking to refine your skills, this matrix will provide a clear direction on where to focus.
+Use this [matrix](./matrix.md) to assess your skills, set development goals, and gain insight into areas that require further growth. If you’re preparing for an interview or looking to refine your skills, this matrix will provide a clear direction on where to focus.
 
-For those interested in taking the next step, I offer **professional interview and skill assessment services** based on this skill matrix. Get personalized feedback, identify strengths and areas for improvement, and prepare confidently for your next career move. 
+For those interested in taking the next step, I offer **professional interview and skill assessment services** based on this [skill matrix](./matrix.md). Get personalized feedback, identify strengths and areas for improvement, and prepare confidently for your next career move. 
 
 Contact me for more information on skill assessments and interview preparation.
