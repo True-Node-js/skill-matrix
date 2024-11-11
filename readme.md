@@ -50,14 +50,14 @@ To ensure clarity and readability, the following emojis will be used:
 | [Networking and Security](./clouds-and-infrastructure/networking-and-security.md) | | 🌿  | 🌳         | 🚀        |
 | [Monitoring](./clouds-and-infrastructure/monitoring.md) |            | 🌿      | 🌳         | 🚀        |
 | [Cost management](./clouds-and-infrastructure/cost-management.md) | | 🌿      | 🌳         | 🚀        |
-| **System Design**                             |            |            |            |           |
-| [Requirements Definition](./system-design/requirements-definition.md) | |    | 🌱      | 🌿        |
-| [Architecture Solutions](./system-design/architecture-solutions.md) | 🌿  | 🌿       | 🌳         | 🌳        |
-| [Event-Driven Architecture and Messaging](./system-design/event-driven-architecture.md) | 🌿 | 🌿 | 🌳  | 🌳        |
-| [DB Design](./system-design/db-design.md)     | 🌿         | 🌿         | 🌳         | 🌳        |
-| [Data Consistency and Distributed Systems](./system-design/data-consistency.md) | 🌿 | 🌿 | 🌳 | 🌳   |
-| [Scalability and Fault Tolerance](./system-design/scalability-and-fault-tolerance.md) | 🌿 | 🌿 | 🌳 | 🌳 |
-| [Security](./system-design/security.md)       | 🌿         | 🌿         | 🌳         | 🌳        |
-| [Testing](./system-design/testing.md)         | 🌿         | 🌿         | 🌳         | 🌳        |
-| [Performance and Monitoring](./system-design/performance-and-monitoring.md) | 🌿 | 🌿 | 🌳 | 🌳 |
-| [Documentation](./system-design/documentation.md) | 🌿         | 🌿         | 🌳         | 🌳        |
+| **System Design**                                                                         |   |   |   |   |
+| [Requirements Definition](./system-design/requirements-definition.md)                     |   |   | 🌱 | 🌿 |
+| [Architecture Solutions](./system-design/architecture-solutions.md)                       |   | 🌱 | 🌿 | 🌳 |
+| [Event-Driven Architecture and Messaging](./system-design/event-driven-architecture.md)   |   |   | 🌱 | 🌿 |
+| [DB Design](./system-design/db-design.md)                                                 | 🌱 | 🌿 | 🌳 | 🌳 |
+| [Data Consistency and Distributed Systems](./system-design/data-consistency.md)           |   |   | 🌱 | 🌿 |
+| [Scalability and Fault Tolerance](./system-design/scalability-and-fault-tolerance.md)     |   |   | 🌱 | 🌿 |
+| [Security](./system-design/security.md)                                                   |   | 🌱 | 🌿 | 🌳 |
+| [Testing](./system-design/testing.md)                                                     | 🌱 | 🌿 | 🌳 | 🌳 |
+| [Performance and Monitoring](./system-design/performance-and-monitoring.md)               |   |   | 🌱 | 🌿 |
+| [Documentation](./system-design/documentation.md)                                         |   | 🌱 | 🌿 | 🌳 |
