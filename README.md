@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Node.js Skill Matrix** is a powerful tool for evaluating and developing Node.js engineering skills, ideal for **self-assessment**, **interview preparation**, and **creating a Personal Development Plan (PDP)**. Whether you're an engineer, interviewer, or mentor, this matrix provides a structured framework to assess, understand, and advance Node.js expertise across various skill areas.
+The [**Node.js Skill Matrix**](./MATRIX.md) is a powerful tool for evaluating and developing Node.js engineering skills, ideal for **self-assessment**, **interview preparation**, and **creating a Personal Development Plan (PDP)**. Whether you're an engineer, interviewer, or mentor, this matrix provides a structured framework to assess, understand, and advance Node.js expertise across various skill areas.
 
 ## Who Can Benefit?
 
