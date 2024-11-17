@@ -67,3 +67,5 @@ Use this matrix as a guide to self-assess, track progress, and create a tailored
 | [Testing](./docs/system-design/testing.md)                                                     | 🌱 | 🌿 | 🌳 | 🌳 |
 | [Performance and Monitoring](./docs/system-design/performance-and-monitoring.md)               |   |   | 🌱 | 🌿 |
 | [Documentation](./docs/system-design/documentation.md)                                         |   | 🌱 | 🌿 | 🌳 |
+
+Start exploring the [Node.js documentation](./docs/README.md) and elevate your backend development expertise!
